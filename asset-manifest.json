@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c5e339e.css",
-    "main.js": "/static/js/main.2927647d.js",
+    "main.css": "/static/css/main.b4563a27.css",
+    "main.js": "/static/js/main.c7413a06.js",
     "static/media/contact-coding-bg.jpg": "/static/media/contact-coding-bg.5cc65ad8e10f8a632ef8.jpg",
     "static/media/my_photo.png": "/static/media/my_photo.bddd19066d867252d720.png",
     "static/media/connections.png": "/static/media/connections.cb2dc33534dcc63f5e03.png",
@@ -16,12 +16,13 @@
     "static/media/shakuntala_logo.png": "/static/media/shakuntala_logo.f2efe6fd9967a9e30e6a.png",
     "static/media/rungta_logo.png": "/static/media/rungta_logo.e7562043bb8b80b0e75f.png",
     "static/media/IndeDrum.jpg": "/static/media/IndeDrum.b8f7f4edb3dceffd4578.jpg",
-    "static/media/Neeraj _Dhurandher_Resume.pdf": "/static/media/Neeraj _Dhurandher_Resume.86bf101a218fd1f4f487.pdf",
+    "static/media/neeraj_dhurandher_resume.pdf": "/static/media/neeraj_dhurandher_resume.86bf101a218fd1f4f487.pdf",
     "static/media/yaari_logo.png": "/static/media/yaari_logo.322fbb693435286a12e4.png",
     "static/media/dsa_logo.png": "/static/media/dsa_logo.9d25e6d0e9f597504fb1.png",
     "static/media/spring.png": "/static/media/spring.aaaa240cfbe3fe1b1b81.png",
     "static/media/android_studio_logo.png": "/static/media/android_studio_logo.2d8170f657d707de5704.png",
     "static/media/reactjs_logo.png": "/static/media/reactjs_logo.4dea880a36ad255d397d.png",
+    "static/media/django_logo.png": "/static/media/django_logo.6791a1e7c936f2a67f49.png",
     "static/media/java_logo.png": "/static/media/java_logo.856ad0b5940d39be6c59.png",
     "static/media/neeraj_logo_svg.svg": "/static/media/neeraj_logo_svg.1691010f23f84273969845b69b7124ae.svg",
     "static/media/contact-info-icon3.svg": "/static/media/contact-info-icon3.6dba31f5a3b867dbcd52f93160f849c7.svg",
@@ -29,11 +30,11 @@
     "static/media/contact-info-icon1.svg": "/static/media/contact-info-icon1.5054d10e73b7e4ad4b76aaf1019b12ef.svg",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.381aec5b5f16a84e1a30cca424068de2.svg",
-    "main.6c5e339e.css.map": "/static/css/main.6c5e339e.css.map",
-    "main.2927647d.js.map": "/static/js/main.2927647d.js.map"
+    "main.b4563a27.css.map": "/static/css/main.b4563a27.css.map",
+    "main.c7413a06.js.map": "/static/js/main.c7413a06.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c5e339e.css",
-    "static/js/main.2927647d.js"
+    "static/css/main.b4563a27.css",
+    "static/js/main.c7413a06.js"
   ]
 }

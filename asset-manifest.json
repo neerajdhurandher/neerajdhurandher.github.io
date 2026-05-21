@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.692ac76d.css",
-    "main.js": "/static/js/main.5611b9ba.js",
+    "main.css": "/static/css/main.b4563a27.css",
+    "main.js": "/static/js/main.c7413a06.js",
     "static/media/contact-coding-bg.jpg": "/static/media/contact-coding-bg.5cc65ad8e10f8a632ef8.jpg",
     "static/media/my_photo.png": "/static/media/my_photo.bddd19066d867252d720.png",
     "static/media/connections.png": "/static/media/connections.cb2dc33534dcc63f5e03.png",
     "static/media/my_website_thumbnail.png": "/static/media/my_website_thumbnail.69e77358f113b4962989.png",
     "static/media/clgEventDrum.JPG": "/static/media/clgEventDrum.ae97741105a1f508aa58.JPG",
     "static/media/swachDrum.png": "/static/media/swachDrum.2d12c0ac9f474ae3467f.png",
-    "static/media/hashedinDrum.jpg": "/static/media/hashedinDrum.335fb65582c14eca3f67.jpg",
     "static/media/vanmaDrum.jpg": "/static/media/vanmaDrum.d1e40c72f62502cc4f12.jpg",
     "static/media/rangDrum.jpg": "/static/media/rangDrum.ff8cbe24143cb34fe5aa.jpg",
     "static/media/vizagDrum.jpg": "/static/media/vizagDrum.fdc78f4b0ca52904c1c7.jpg",
     "static/media/vyomDrum.jpg": "/static/media/vyomDrum.3a5c8c8dfc1e443e2cd8.jpg",
     "static/media/repbulicDrum.JPG": "/static/media/repbulicDrum.793ebf2a176669155e45.JPG",
     "static/media/shakuntala_logo.png": "/static/media/shakuntala_logo.f2efe6fd9967a9e30e6a.png",
+    "static/media/rungta_logo.png": "/static/media/rungta_logo.e7562043bb8b80b0e75f.png",
     "static/media/IndeDrum.jpg": "/static/media/IndeDrum.b8f7f4edb3dceffd4578.jpg",
     "static/media/neeraj_dhurandher_resume.pdf": "/static/media/neeraj_dhurandher_resume.86bf101a218fd1f4f487.pdf",
     "static/media/yaari_logo.png": "/static/media/yaari_logo.322fbb693435286a12e4.png",
@@ -24,17 +24,17 @@
     "static/media/reactjs_logo.png": "/static/media/reactjs_logo.4dea880a36ad255d397d.png",
     "static/media/django_logo.png": "/static/media/django_logo.6791a1e7c936f2a67f49.png",
     "static/media/java_logo.png": "/static/media/java_logo.856ad0b5940d39be6c59.png",
-    "static/media/neeraj_logo_svg.svg": "/static/media/neeraj_logo_svg.505edbadb723812af5236018aaed9519.svg",
-    "static/media/contact-info-icon3.svg": "/static/media/contact-info-icon3.5dc9072ef39d52b53d3cf6ef56e2ff76.svg",
-    "static/media/contact-info-icon2.svg": "/static/media/contact-info-icon2.e22045571386bce777ff311707751d3d.svg",
-    "static/media/contact-info-icon1.svg": "/static/media/contact-info-icon1.58895318968b8bab09037dc768f207c1.svg",
+    "static/media/neeraj_logo_svg.svg": "/static/media/neeraj_logo_svg.1691010f23f84273969845b69b7124ae.svg",
+    "static/media/contact-info-icon3.svg": "/static/media/contact-info-icon3.6dba31f5a3b867dbcd52f93160f849c7.svg",
+    "static/media/contact-info-icon2.svg": "/static/media/contact-info-icon2.26922bd698f54fac1f930e81d0060555.svg",
+    "static/media/contact-info-icon1.svg": "/static/media/contact-info-icon1.5054d10e73b7e4ad4b76aaf1019b12ef.svg",
     "index.html": "/index.html",
-    "static/media/arrow.svg": "/static/media/arrow.1f246d1806e0ddd2d9e1d140695ce2e0.svg",
-    "main.692ac76d.css.map": "/static/css/main.692ac76d.css.map",
-    "main.5611b9ba.js.map": "/static/js/main.5611b9ba.js.map"
+    "static/media/arrow.svg": "/static/media/arrow.381aec5b5f16a84e1a30cca424068de2.svg",
+    "main.b4563a27.css.map": "/static/css/main.b4563a27.css.map",
+    "main.c7413a06.js.map": "/static/js/main.c7413a06.js.map"
   },
   "entrypoints": [
-    "static/css/main.692ac76d.css",
-    "static/js/main.5611b9ba.js"
+    "static/css/main.b4563a27.css",
+    "static/js/main.c7413a06.js"
   ]
 }

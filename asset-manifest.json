@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.692ac76d.css",
-    "main.js": "/static/js/main.197d935b.js",
+    "main.css": "/static/css/main.270010b5.css",
+    "main.js": "/static/js/main.c326061f.js",
     "static/media/contact-coding-bg.jpg": "/static/media/contact-coding-bg.5cc65ad8e10f8a632ef8.jpg",
+    "static/media/chrome_new_tab.png": "/static/media/chrome_new_tab.325582ac9e20e149e3bf.png",
     "static/media/my_photo.png": "/static/media/my_photo.bddd19066d867252d720.png",
-    "static/media/connections.png": "/static/media/connections.cb2dc33534dcc63f5e03.png",
     "static/media/my_website_thumbnail.png": "/static/media/my_website_thumbnail.69e77358f113b4962989.png",
     "static/media/clgEventDrum.JPG": "/static/media/clgEventDrum.ae97741105a1f508aa58.JPG",
     "static/media/swachDrum.png": "/static/media/swachDrum.2d12c0ac9f474ae3467f.png",
@@ -25,16 +25,13 @@
     "static/media/django_logo.png": "/static/media/django_logo.6791a1e7c936f2a67f49.png",
     "static/media/java_logo.png": "/static/media/java_logo.856ad0b5940d39be6c59.png",
     "static/media/neeraj_logo_svg.svg": "/static/media/neeraj_logo_svg.505edbadb723812af5236018aaed9519.svg",
-    "static/media/contact-info-icon3.svg": "/static/media/contact-info-icon3.5dc9072ef39d52b53d3cf6ef56e2ff76.svg",
-    "static/media/contact-info-icon2.svg": "/static/media/contact-info-icon2.e22045571386bce777ff311707751d3d.svg",
-    "static/media/contact-info-icon1.svg": "/static/media/contact-info-icon1.58895318968b8bab09037dc768f207c1.svg",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.1f246d1806e0ddd2d9e1d140695ce2e0.svg",
-    "main.692ac76d.css.map": "/static/css/main.692ac76d.css.map",
-    "main.197d935b.js.map": "/static/js/main.197d935b.js.map"
+    "main.270010b5.css.map": "/static/css/main.270010b5.css.map",
+    "main.c326061f.js.map": "/static/js/main.c326061f.js.map"
   },
   "entrypoints": [
-    "static/css/main.692ac76d.css",
-    "static/js/main.197d935b.js"
+    "static/css/main.270010b5.css",
+    "static/js/main.c326061f.js"
   ]
 }

@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.270010b5.css",
-    "main.js": "/static/js/main.c326061f.js",
+    "main.css": "/static/css/main.e2ad59b0.css",
+    "main.js": "/static/js/main.a21c9c7f.js",
     "static/media/contact-coding-bg.jpg": "/static/media/contact-coding-bg.5cc65ad8e10f8a632ef8.jpg",
-    "static/media/chrome_new_tab.png": "/static/media/chrome_new_tab.325582ac9e20e149e3bf.png",
+    "static/media/autofill_banner.png": "/static/media/autofill_banner.32ff0751f9b9e3bd974d.png",
+    "static/media/yaari_banner.png": "/static/media/yaari_banner.1c7353a733f49214109b.png",
+    "static/media/new_tab_banner.png": "/static/media/new_tab_banner.bff50b723f5d363d285a.png",
     "static/media/my_photo.png": "/static/media/my_photo.bddd19066d867252d720.png",
-    "static/media/my_website_thumbnail.png": "/static/media/my_website_thumbnail.69e77358f113b4962989.png",
     "static/media/clgEventDrum.JPG": "/static/media/clgEventDrum.ae97741105a1f508aa58.JPG",
     "static/media/swachDrum.png": "/static/media/swachDrum.2d12c0ac9f474ae3467f.png",
     "static/media/hashedinDrum.jpg": "/static/media/hashedinDrum.335fb65582c14eca3f67.jpg",
@@ -17,7 +18,6 @@
     "static/media/shakuntala_logo.png": "/static/media/shakuntala_logo.f2efe6fd9967a9e30e6a.png",
     "static/media/IndeDrum.jpg": "/static/media/IndeDrum.b8f7f4edb3dceffd4578.jpg",
     "static/media/neeraj_dhurandher_resume.pdf": "/static/media/neeraj_dhurandher_resume.86bf101a218fd1f4f487.pdf",
-    "static/media/yaari_logo.png": "/static/media/yaari_logo.322fbb693435286a12e4.png",
     "static/media/dsa_logo.png": "/static/media/dsa_logo.9d25e6d0e9f597504fb1.png",
     "static/media/spring.png": "/static/media/spring.aaaa240cfbe3fe1b1b81.png",
     "static/media/android_studio_logo.png": "/static/media/android_studio_logo.2d8170f657d707de5704.png",
@@ -27,11 +27,11 @@
     "static/media/neeraj_logo_svg.svg": "/static/media/neeraj_logo_svg.505edbadb723812af5236018aaed9519.svg",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.1f246d1806e0ddd2d9e1d140695ce2e0.svg",
-    "main.270010b5.css.map": "/static/css/main.270010b5.css.map",
-    "main.c326061f.js.map": "/static/js/main.c326061f.js.map"
+    "main.e2ad59b0.css.map": "/static/css/main.e2ad59b0.css.map",
+    "main.a21c9c7f.js.map": "/static/js/main.a21c9c7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.270010b5.css",
-    "static/js/main.c326061f.js"
+    "static/css/main.e2ad59b0.css",
+    "static/js/main.a21c9c7f.js"
   ]
 }

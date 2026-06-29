@@ -1,11 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2ad59b0.css",
-    "main.js": "/static/js/main.a21c9c7f.js",
+    "main.css": "/static/css/main.e1e9e147.css",
+    "main.js": "/static/js/main.99282865.js",
     "static/media/contact-coding-bg.jpg": "/static/media/contact-coding-bg.5cc65ad8e10f8a632ef8.jpg",
     "static/media/autofill_banner.png": "/static/media/autofill_banner.32ff0751f9b9e3bd974d.png",
     "static/media/yaari_banner.png": "/static/media/yaari_banner.1c7353a733f49214109b.png",
     "static/media/new_tab_banner.png": "/static/media/new_tab_banner.bff50b723f5d363d285a.png",
+    "static/media/image_date_modifier_banner.png": "/static/media/image_date_modifier_banner.30628285526403c1c8c2.png",
+    "static/media/daily_tracker_banner.png": "/static/media/daily_tracker_banner.b062c13741585f00f059.png",
+    "static/media/keep_me_available_banner.png": "/static/media/keep_me_available_banner.b60ea42e4bb5c75984c0.png",
+    "static/media/expense_tracker_banner.png": "/static/media/expense_tracker_banner.4ff91620298a998704c8.png",
+    "static/media/issue_tracking_tool_banner.png": "/static/media/issue_tracking_tool_banner.586ebdad39d9f02e4286.png",
+    "static/media/udemy_backend_api_banner.png": "/static/media/udemy_backend_api_banner.e1469e4c4be748321881.png",
     "static/media/my_photo.png": "/static/media/my_photo.bddd19066d867252d720.png",
     "static/media/clgEventDrum.JPG": "/static/media/clgEventDrum.ae97741105a1f508aa58.JPG",
     "static/media/swachDrum.png": "/static/media/swachDrum.2d12c0ac9f474ae3467f.png",
@@ -27,11 +33,11 @@
     "static/media/neeraj_logo_svg.svg": "/static/media/neeraj_logo_svg.505edbadb723812af5236018aaed9519.svg",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.1f246d1806e0ddd2d9e1d140695ce2e0.svg",
-    "main.e2ad59b0.css.map": "/static/css/main.e2ad59b0.css.map",
-    "main.a21c9c7f.js.map": "/static/js/main.a21c9c7f.js.map"
+    "main.e1e9e147.css.map": "/static/css/main.e1e9e147.css.map",
+    "main.99282865.js.map": "/static/js/main.99282865.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2ad59b0.css",
-    "static/js/main.a21c9c7f.js"
+    "static/css/main.e1e9e147.css",
+    "static/js/main.99282865.js"
   ]
 }
